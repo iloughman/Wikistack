@@ -1,0 +1,23 @@
+body {
+  padding: 60px;
+  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+}
+
+a {
+  color: #00B7FF;
+}
+
+.footer {
+	color: #d3d3d3;
+	font: 50px;
+	margin: 5px;
+}
+
+.btn-default {
+	margin: 10px;
+	background-color: #CCFFFF;
+}
+
+.modal-footer{
+	color: #d3d3d3;
+}

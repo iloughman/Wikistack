@@ -1,0 +1,12 @@
+{% extends "layout.html" %}
+
+  {% block content %}
+    <h1 class = "page-header">{{page.title}}</h1>
+    <div class = "container">{{page.body|markedFilter}}</div>
+ 
+
+<!-- <div class = "footer">
+  <p>WIKISTACK, Fullstack Academy</p>
+</div> -->
+
+ {% endblock %}
